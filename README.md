@@ -1,1 +1,1 @@
-# cpp_init_from_base
+Example of init cpp object from base class object
